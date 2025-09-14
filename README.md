@@ -1,4 +1,7 @@
-## Hi there 👋
+## Mari mari 👋
+
+Inche ta Rodrigo pigen. Gulumapu mülen.
+Inche Ingeniero Civil en Informática kudawkulen.
 
 <!--
 **rsantibanez/rsantibanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
